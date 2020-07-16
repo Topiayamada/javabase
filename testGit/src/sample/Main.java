@@ -6,6 +6,9 @@ public class Main {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("hello Git");
 
+		Hero h =new  Hero();
+		h.serih();
+
 	}
 
 }
